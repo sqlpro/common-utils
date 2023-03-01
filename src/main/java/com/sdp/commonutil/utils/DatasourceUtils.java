@@ -11,4 +11,8 @@ public class DatasourceUtils {
     public static List<Object> getDatasource() {
         return new ArrayList<>();
     }
+
+    public static List<Object> getDatasource2() {
+        return new ArrayList<>();
+    }
 }
