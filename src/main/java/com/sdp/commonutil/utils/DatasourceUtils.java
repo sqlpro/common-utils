@@ -7,4 +7,8 @@ public class DatasourceUtils {
     public static List<Object> getConnections() {
         return new ArrayList<>();
     }
+
+    public static List<Object> getDatasource() {
+        return new ArrayList<>();
+    }
 }
