@@ -1,4 +1,4 @@
-package com.sdp.commonutil;
+package com.sample.commonutil;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.sdp.commonutil.utils;
+package com.sample.commonutil.utils;
 
 public class StringUtils {
 
